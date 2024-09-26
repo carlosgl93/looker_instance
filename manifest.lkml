@@ -1,7 +1,7 @@
 project_name: "carlos-looker-project"
 
 application: explore_assistant_carlos {
-  label: "Explore Assistant"
+  label: "Explore Assistant Carlos"
   url: "https://localhost:8080/bundle.js"
   # file: "bundle.js"
   entitlements: {
